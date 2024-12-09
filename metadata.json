@@ -2,5 +2,17 @@
   "name": "MIMI MOMO",
   "symbol": "MIMI",
   "description": "Mima Mima Mimi MoMo Mima Mimi May",
-  "image": "https://raw.githubusercontent.com/jacobkrajewski/mimi-token/refs/heads/main/test-mimi.jpeg"
+  "image": "https://raw.githubusercontent.com/jacobkrajewski/mimi-token/refs/heads/main/test-mimi.jpeg",
+  "external_url": "https://yourwebsite.com",
+  "attributes": [
+    {
+      "trait_type": "Social Media",
+      "value": "X: @sentientreplier"
+    }
+  ],
+  "social": {
+    "twitter": "https://twitter.com/sentientreplier",
+    "website": "https://yourwebsite.com"
+  }
+}
 }
