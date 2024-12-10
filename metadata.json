@@ -1,17 +1,19 @@
 {
-  "name": "MIMI MOMO",
-  "symbol": "MIMI",
+  "name": "SHITPISS Coin",
+  "symbol": "SHITPISS",
   "description": "Mima Mima Mimi MoMo Mima Mimi May",
   "image": "https://raw.githubusercontent.com/jacobkrajewski/mimi-token/refs/heads/main/test-mimi.jpeg",
-  "external_url": "https://yourwebsite.com",
-  "attributes": [
-    {
-      "trait_type": "Social Media",
-      "value": "X: @sentientreplier"
-    }
-  ],
-  "social": {
+  "external_url": "https://shitpiss.com",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/jacobkrajewski/mimi-token/refs/heads/main/test-mimi.jpeg",
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  "links": {
     "twitter": "https://twitter.com/sentientreplier",
-    "website": "https://yourwebsite.com"
+    "website": "https://shitpiss.com"
   }
 }
